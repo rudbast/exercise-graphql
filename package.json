@@ -1,0 +1,18 @@
+{
+  "name": "exercise-graphql",
+  "version": "1.0.0",
+  "description": "GraphQL exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/rudbast/exercise-graphql"
+  },
+  "author": "Rudolf",
+  "license": "WTFPL",
+  "dependencies": {
+    "graphql": "^0.12.3"
+  }
+}
